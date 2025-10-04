@@ -12,7 +12,7 @@ Agente de IA para análise de faturas em PDF usando RAG (Retrieval-Augmented Gen
 
 ### 1. Clone o repositório
 ```bash
-git clone <url-do-repositorio>
+git clone git@github.com:briz-felipe/fatura-agent.git
 cd fatura-agent
 ```
 

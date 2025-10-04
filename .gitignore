@@ -208,3 +208,4 @@ __marimo__/
 
 */.pdf
 input/*.pdf
+*.vscode
